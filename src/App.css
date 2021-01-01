@@ -70,7 +70,7 @@
 
 }
 .comp4 {
-  height: 100vh;
+  height: 105vh;
   width: 100vw;
   background-color: black;
   color: #d3d3d3;
@@ -97,6 +97,10 @@
 .footer a {
   font-size: smaller;
 }
+.nav-item{
+  text-align: left;
+}
+
 
 
 
