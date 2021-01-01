@@ -108,6 +108,9 @@
 
   
   }
+  #r-content{
+    padding: 18%;
+  }
   #r-content h2{
     margin-top: 12px;
   }

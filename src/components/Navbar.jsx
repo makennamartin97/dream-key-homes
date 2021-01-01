@@ -13,17 +13,17 @@ class Navbar extends Component {
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span className="navbar-toggler-icon"></span>
             </button>
-            <div className="collapse navbar-collapse" id="collapsibleNavbar">
+            <div className="collapse navbar-collapse" id="collapsibleNavbar" data-toggle="collapse" data-target=".navbar-collapse">
                 <ul className="navbar-nav mr-auto" >
 
                     <li className="nav-item ">
                     <a className="nav-link " style={{color: "#949494"}} href="/dream-key-homes/#about">About</a>
                     </li>
-                    <li className="nav-item">
+                    <li className="nav-item" >
                         <a className="nav-link " style={{color: "#949494"}} href="/dream-key-homes/#gallery">Gallery</a>
                     </li>
-                    <li className="nav-item">
-                        <a className="nav-link " style={{color: "#949494"}} href="/dream-key-homes/#reviews">Reviews</a>
+                    <li className="nav-item" >
+                        <a className="nav-link "  style={{color: "#949494"}} href="/dream-key-homes/#reviews">Reviews</a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link " style={{color: "#949494"}} href="/dream-key-homes/#contact">Contact</a>
