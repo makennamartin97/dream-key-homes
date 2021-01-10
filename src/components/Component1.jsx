@@ -8,12 +8,12 @@ class Component1 extends Component {
         <div className="comp1" >
             <div className="name animated fadeIn">
             <Typical
-            steps={['Dream Key Homes', 3500]}
+            steps={['Dreamkey', 1000]}
             loop={Infinity}
-            wrapper="h2"
+            wrapper="h1"
             />
             <Typical
-            steps={[1800, 'Enterprises', 800]}
+            steps={[1800, 'Enterprises', 2000]}
             loop={Infinity}
             wrapper="h4"
             />

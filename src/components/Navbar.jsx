@@ -9,7 +9,7 @@ class Navbar extends Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-light bg-dark fixed-top" style={{opacity: '70%'}}>
-            <a className="navbar-brand text-light" href="/dream-key-homes/">Dream Key Homes</a>
+            <a className="navbar-brand text-light" href="/dream-key-homes/">Dreamkey</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span className="navbar-toggler-icon"></span>
             </button>
