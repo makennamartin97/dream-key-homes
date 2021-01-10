@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dream-key-homes/static/css/main.b74a9edf.chunk.css",
+    "main.js": "/dream-key-homes/static/js/main.bcb62a53.chunk.js",
+    "main.js.map": "/dream-key-homes/static/js/main.bcb62a53.chunk.js.map",
+    "runtime-main.js": "/dream-key-homes/static/js/runtime-main.71fc2b88.js",
+    "runtime-main.js.map": "/dream-key-homes/static/js/runtime-main.71fc2b88.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/dream-key-homes/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.6c3a257b.chunk.js": "/dream-key-homes/static/js/2.6c3a257b.chunk.js",
+    "static/js/2.6c3a257b.chunk.js.map": "/dream-key-homes/static/js/2.6c3a257b.chunk.js.map",
+    "static/js/3.a0bac2b0.chunk.js": "/dream-key-homes/static/js/3.a0bac2b0.chunk.js",
+    "static/js/3.a0bac2b0.chunk.js.map": "/dream-key-homes/static/js/3.a0bac2b0.chunk.js.map",
+    "index.html": "/dream-key-homes/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/dream-key-homes/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.b74a9edf.chunk.css.map": "/dream-key-homes/static/css/main.b74a9edf.chunk.css.map",
+    "static/js/2.6c3a257b.chunk.js.LICENSE.txt": "/dream-key-homes/static/js/2.6c3a257b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dream-key-homes/static/media/kitchen.d8200075.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71fc2b88.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.6c3a257b.chunk.js",
+    "static/css/main.b74a9edf.chunk.css",
+    "static/js/main.bcb62a53.chunk.js"
+  ]
+}
